@@ -32,7 +32,7 @@ paper's central finding: mineral revenue predicts poverty reduction only after a
 enclave economy.
 
 ### [The V-Shaped Path: Bridging the TFP Gap in Benin](https://github.com/baileypradhan-hub/benin-guatemala-development-accounting)
-Sole-authored, written Spring 2026. Applied a Caselli-style development accounting framework to
+Sole-authored, written Fall 2025. Applied a Caselli-style development accounting framework to
 show that Benin's 2.52x income gap with Guatemala isn't a schooling problem. Human capital
 reached parity by 2023. The real gap is a Total Factor Productivity collapse dating to the
 1990s.
