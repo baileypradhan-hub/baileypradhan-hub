@@ -1,14 +1,10 @@
-# Hi, I'm Bailey Pradhan
+# Hi, I’m Bailey Pradhan
 
 MS Quantitative Economics, Boston University · BA Economics, Chapman University
 
-I work at the intersection of macro, rates, and credit. I like building an econometric
-framework that turns a research question into something testable, then trusting the answer
-only once I've tried to break it. Below is my applied research in Stata, all with real
-data.
+Macro, rates and credit are where I most want to work. I like turning a research question into something I can test, and I don’t trust an answer until I’ve tried to break it. The projects below are my applied research, built in Stata with real data.
 
-Currently looking for full-time roles in economics research, quantitative research, fixed
-income, or macro strategy in New York. Feel free to reach out.
+I’m looking for a full-time role in New York where I can use my economics and learn quickly. Feel free to reach out.
 
 ## Featured Projects
 
