@@ -4,7 +4,7 @@ MS Quantitative Economics, Boston University · BA Economics, Chapman University
 
 I work at the intersection of macro, rates, and credit. I like building an econometric
 framework that turns a research question into something testable, then trusting the answer
-only once I've tried to break it. Below is my applied research, all in STATA, all with real
+only once I've tried to break it. Below is my applied research in Stata, all with real
 data.
 
 Currently looking for full-time roles in economics research, quantitative research, fixed
